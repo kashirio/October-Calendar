@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <title>10月 予定表</title>
+    </head>
+    <body>
+        <table border="1" width="100%" cellpadding="0" bordercolor="#000000">
+            <tr>
+                <th colspan="5">2022年　10月　体育館使用割り当て</th>
+            </tr>
+            <tr>
+                <th>　日</th>
+                <th>曜</th>
+                <th>　　学校行事　　</th>
+                <th>　　　前半　　　</th>
+                <th>　　　後半　　　</th>
+            </tr>
+            <tr>
+                <th bgcolor="#CCF9FF">　１</th>
+                <th bgcolor="#CCF9FF">土</th>
+                <th bgcolor="#CCF9FF"></th>
+                <th colspan="2" bgcolor="#CCF9FF">練習【in南部／後半】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#FFD1D1">　２</th>
+                <th bgcolor="#FFD1D1">日</th>
+                <th bgcolor="#FFD1D1"></th>
+                <th colspan="2" bgcolor="#FFD1D1">練習【in南部／前半】</th>
+            </tr>
+            <tr>
+                <th>　３</th>
+                <th>月</th>
+                <th></th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th>　４</th>
+                <th>火</th>
+                <th></th>
+                <th colspan="2">練習【in尼崎西高】</th>
+            </tr>
+            <tr>
+                <th>　５</th>
+                <th>水</th>
+                <th>市内全体教科研究会</th>
+                <th colspan="2">OFF</th>
+            </tr>
+            <tr>
+                <th>　６</th>
+                <th>木</th>
+                <th></th>
+                <th colspan="2">練習【in武庫総高】</th>
+            </tr>
+            <tr>
+                <th>　７</th>
+                <th>金</th>
+                <th></th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#CCF9FF">　８</th>
+                <th bgcolor="#CCF9FF">土</th>
+                <th bgcolor="#CCF9FF"></th>
+                <th colspan="2" bgcolor="#CCF9FF">練習【in南部／前半】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#FFD1D1">　９</th>
+                <th bgcolor="#FFD1D1">日</th>
+                <th bgcolor="#FFD1D1"></th>
+                <th colspan="2" bgcolor="#FFD1D1">市内新人</th>
+            </tr>
+            <tr>
+                <th bgcolor="#FFD1D1">１０</th>
+                <th bgcolor="#FFD1D1">月</th>
+                <th bgcolor="#FFD1D1">スポーツの日</th>
+                <th colspan="2" bgcolor="#FFD1D1">OFF</th>
+            </tr>
+            <tr>
+                <th>１１</th>
+                <th>火</th>
+                <th></th>
+                <th colspan="2">OFF</th>
+            </tr>
+            <tr>
+                <th>１２</th>
+                <th>水</th>
+                <th></th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th>１３</th>
+                <th>木</th>
+                <th></th>
+                <th colspan="2">練習【inベイコム】</th>
+            </tr>
+            <tr>
+                <th>１４</th>
+                <th>金</th>
+                <th></th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#CCF9FF">１５</th>
+                <th bgcolor="#CCF9FF">土</th>
+                <th bgcolor="#CCF9FF"></th>
+                <th colspan="2" bgcolor="#CCF9FF">練習【in南部／後半】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#FFD1D1">１６</th>
+                <th bgcolor="#FFD1D1">日</th>
+                <th bgcolor="#FFD1D1"></th>
+                <th colspan="2" bgcolor="#FFD1D1">練習【in南部／前半】</th>
+            </tr>
+            <tr>
+                <th>１７</th>
+                <th>月</th>
+                <th></th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th>１８</th>
+                <th>火</th>
+                <th></th>
+                <th colspan="2">練習【in中央】</th>
+            </tr>
+            <tr>
+                <th>１９</th>
+                <th>水</th>
+                <th></th>
+                <th colspan="2">練習【inベイコム】</th>
+            </tr>
+            <tr>
+                <th>２０</th>
+                <th>木</th>
+                <th></th>
+                <th colspan="2">OFF</th>
+            </tr>
+            <tr>
+                <th>２１</th>
+                <th>金</th>
+                <th></th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#CCF9FF">２２</th>
+                <th bgcolor="#CCF9FF">土</th>
+                <th bgcolor="#CCF9FF"></th>
+                <th colspan="2" bgcolor="#CCF9FF">練習【in南部／前半】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#FFD1D1">２３</th>
+                <th bgcolor="#FFD1D1">日</th>
+                <th bgcolor="#FFD1D1"></th>
+                <th colspan="2" bgcolor="#FFD1D1">練習【in南部／後半】</th>
+            </tr>
+            <tr>
+                <th>２４</th>
+                <th>月</th>
+                <th></th>
+                <th colspan="2">OFF</th>
+            </tr>
+            <tr>
+                <th>２５</th>
+                <th>火</th>
+                <th></th>
+                <th colspan="2">練習【inベイコム】</th>
+            </tr>
+            <tr>
+                <th>２６</th>
+                <th>水</th>
+                <th></th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th>２７</th>
+                <th>木</th>
+                <th></th>
+                <th colspan="2">練習【in立花】</th>
+            </tr>
+            <tr>
+                <th>２８</th>
+                <th>金</th>
+                <th>文化発表会</th>
+                <th colspan="2">練習【in南部】</th>
+            </tr>
+            <tr>
+                <th bgcolor="#CCF9FF">２９</th>
+                <th bgcolor="#CCF9FF">土</th>
+                <th bgcolor="#CCF9FF"></th>
+                <th colspan="2" bgcolor="#CCF9FF">阪神新人</th>
+            </tr>
+            <tr>
+                <th bgcolor="#FFD1D1">３０</th>
+                <th bgcolor="#FFD1D1">日</th>
+                <th bgcolor="#FFD1D1"></th>
+                <th colspan="2" bgcolor="#FFD1D1">阪神新人</th>
+            </tr>
+            <tr>
+                <th>３１</th>
+                <th>月</th>
+                <th></th>
+                <th colspan="2">OFF</th>
+            </tr>
+        </table>
+        <p>【今後の予定】大会等2週間前から土日ともに活動を行います。休日は別日に振り替えます。</p>
+        <p>１１月１９日・２０日　県新人</p>
+    </body>
+</html>
